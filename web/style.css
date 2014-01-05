@@ -1,0 +1,48 @@
+.red{
+	color:#f00;
+}
+.read{
+	color:#ff0;
+}
+
+.font-changes{
+	font-size:50px;
+	font-family:"Courier New", Courier,serif;
+	font-style:italic;
+	text-decoration:underline;
+	color:#0f0;
+	background-color:#f00;
+	font-weight:bold;
+}
+.font-changes .undo{
+	font-size:10px;
+	background-color:#ff0;
+}
+
+ol{
+	font-size:18px;
+	font-family:"Courier New", Courier,serif;
+	font-style:italic;
+	text-decoration:underline;
+	color:#ff0;
+	background-color:#00f;
+}
+
+.setback{
+	display:block;
+	float:left;
+}
+
+.setback img{
+	border:solid;
+	border-color:#f00;
+	padding:10px 5px 0 0;
+	/*top right buttom left*/
+	margin-right:10px;
+}
+
+.negative-margin{
+	display:block;
+	float:left;
+	margin-left:-300px;
+}
