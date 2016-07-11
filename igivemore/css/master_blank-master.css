@@ -1,0 +1,44 @@
+#u26527
+{
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: transparent url("../images/logo2_small-599282a4aabd28e764c2852cbfa6cf6c.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u26475-3,#u26476-3
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FCFCFC;
+	position: relative;
+}
+
+#u26471-4
+{
+	font-size: 14px;
+	font-weight: 400;
+	position: relative;
+}
+
+#u26471-2
+{
+	font-family: muli, sans-serif;
+}
+
+#u27117
+{
+	position: relative;
+}
+
+#u27120,#u27118,#u27122
+{
+	background-color: transparent;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-khtml-border-radius: 100px;
+	border-radius: 100px;
+	position: relative;
+}
+

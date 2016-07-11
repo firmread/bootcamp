@@ -1,0 +1,217 @@
+<manifest alg="2" build="329" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="451803084"/>
+    <file name="master_zoom-individual.css" crc="4282060742" ref="social-zoom"/>
+    <file name="master_master-logged-in.css" crc="3820412242" ref="claim-nonprofit:careers:user-profle:user-profle-first:create-campaign:tile:campaign-page:browse-campaign-page:impact-viz"/>
+    <file name="master_analytic-graph.css" crc="4113609423" ref="view:graph-time:path:dashboard-graph:raised"/>
+    <file name="master_analytic-graph-zoom.css" crc="4005291166" ref="campaign-zoom:social-zoom"/>
+    <file name="master_master-non-login.css" crc="50730482" ref="sign-up:index:about-us:blog"/>
+    <file name="master_zoom-campaign.css" crc="4204291508" ref="campaign-zoom"/>
+    <file name="master_master-non-profit.css" crc="515018996" ref="campaign-zoom:dashboard-table:view:social-zoom:graph-time:path:dashboard-graph:organization-profile:raised"/>
+    <file name="master_blank-master.css" crc="463451518" ref="signup"/>
+    <file name="campaign-zoom.css" crc="3846113103" ref="campaign-zoom"/>
+    <file name="iefonts_campaign-zoom.css" crc="4197525348" ref="campaign-zoom"/>
+    <file name="signup.css" crc="146000704" ref="signup"/>
+    <file name="iefonts_signup.css" crc="4089984736" ref="signup"/>
+    <file name="sign-up.css" crc="4108739359" ref="sign-up"/>
+    <file name="claim-nonprofit.css" crc="3812180801" ref="claim-nonprofit"/>
+    <file name="careers.css" crc="3860807335" ref="careers"/>
+    <file name="iefonts_careers.css" crc="325933744" ref="careers"/>
+    <file name="dashboard-table.css" crc="86180772" ref="dashboard-table"/>
+    <file name="iefonts_dashboard-table.css" crc="77807519" ref="dashboard-table"/>
+    <file name="view.css" crc="83165833" ref="view"/>
+    <file name="iefonts_view.css" crc="394553856" ref="view"/>
+    <file name="user-profle.css" crc="3883859236" ref="user-profle"/>
+    <file name="iefonts_user-profle.css" crc="186494659" ref="user-profle"/>
+    <file name="social-zoom.css" crc="4250092052" ref="social-zoom"/>
+    <file name="iefonts_social-zoom.css" crc="3900766685" ref="social-zoom"/>
+    <file name="index.css" crc="4093244108" ref="index"/>
+    <file name="iefonts_index.css" crc="222897544" ref="index"/>
+    <file name="user-profle-first.css" crc="4208792849" ref="user-profle-first"/>
+    <file name="iefonts_user-profle-first.css" crc="4210987965" ref="user-profle-first"/>
+    <file name="graph-time.css" crc="457772432" ref="graph-time"/>
+    <file name="iefonts_graph-time.css" crc="8912595" ref="graph-time"/>
+    <file name="create-campaign.css" crc="45598033" ref="create-campaign"/>
+    <file name="iefonts_create-campaign.css" crc="424143265" ref="create-campaign"/>
+    <file name="about-us.css" crc="4083742530" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="478254014" ref="about-us"/>
+    <file name="path.css" crc="290849311" ref="path"/>
+    <file name="iefonts_path.css" crc="63651854" ref="path"/>
+    <file name="tile.css" crc="3791955974" ref="tile"/>
+    <file name="iefonts_tile.css" crc="3801891698" ref="tile"/>
+    <file name="dashboard-graph.css" crc="125341113" ref="dashboard-graph"/>
+    <file name="iefonts_dashboard-graph.css" crc="57430599" ref="dashboard-graph"/>
+    <file name="organization-profile.css" crc="328455462" ref="organization-profile"/>
+    <file name="iefonts_organization-profile.css" crc="3810837787" ref="organization-profile"/>
+    <file name="raised.css" crc="3970459829" ref="raised"/>
+    <file name="iefonts_raised.css" crc="348401854" ref="raised"/>
+    <file name="blog.css" crc="17221123" ref="blog"/>
+    <file name="campaign-page.css" crc="518975704" ref="campaign-page"/>
+    <file name="iefonts_campaign-page.css" crc="4229971324" ref="campaign-page"/>
+    <file name="browse-campaign-page.css" crc="304726805" ref="browse-campaign-page"/>
+    <file name="iefonts_browse-campaign-page.css" crc="3987613411" ref="browse-campaign-page"/>
+    <file name="impact-viz.css" crc="401308829" ref="impact-viz"/>
+    <file name="iefonts_impact-viz.css" crc="3959056291" ref="impact-viz"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:browse-campaign-page:careers:about-us:create-campaign:sign-up:blog:organization-profile:campaign-page:claim-nonprofit:dashboard-table:graph-time:path:dashboard-graph:raised:view:user-profle:tile:campaign-zoom:social-zoom:user-profle-first:signup:impact-viz"/>
+    <file name="museutils.js" crc="117816282" ref="index:browse-campaign-page:careers:about-us:create-campaign:sign-up:blog:organization-profile:campaign-page:claim-nonprofit:dashboard-table:graph-time:path:dashboard-graph:raised:view:user-profle:tile:campaign-zoom:social-zoom:user-profle-first:signup:impact-viz"/>
+    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="index:browse-campaign-page:careers:about-us:create-campaign:sign-up:blog:organization-profile:campaign-page:claim-nonprofit:dashboard-table:graph-time:path:dashboard-graph:raised:view:user-profle:tile:campaign-zoom:social-zoom:user-profle-first:signup:impact-viz"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="index:browse-campaign-page:organization-profile:campaign-page:graph-time:tile:campaign-zoom:social-zoom:signup"/>
+    <file name="pie.js" crc="4147615982" ref="index:careers:about-us:create-campaign:organization-profile:dashboard-table:graph-time:path:dashboard-graph:raised:view:user-profle:tile:campaign-zoom:social-zoom:user-profle-first:signup"/>
+    <file name="webpro.js" crc="33264525" ref="index:browse-campaign-page:careers:about-us:create-campaign:sign-up:blog:organization-profile:campaign-page:claim-nonprofit:dashboard-table:graph-time:path:dashboard-graph:raised:view:user-profle:tile:campaign-zoom:social-zoom:user-profle-first:impact-viz"/>
+    <file name="form_check.php" crc="420793330" ref="index:about-us:create-campaign:sign-up:blog"/>
+    <file name="form_throttle.php" crc="4126984013" ref="index:about-us:create-campaign:sign-up:blog"/>
+    <file name="form-u778.php" crc="179487977" ref="index:about-us:sign-up:blog"/>
+    <file name="musewpslideshow.js" crc="272207905" ref="index:about-us:sign-up:blog"/>
+    <file name="jquery.museoverlay.js" crc="466079611" ref="index:about-us:sign-up:blog"/>
+    <file name="touchswipe.js" crc="261777990" ref="index:about-us:sign-up:blog"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:browse-campaign-page:careers:about-us:create-campaign:sign-up:blog:organization-profile:campaign-page:claim-nonprofit:dashboard-table:graph-time:path:dashboard-graph:raised:view:user-profle:tile:campaign-zoom:social-zoom:user-profle-first:signup:impact-viz"/>
+    <file name="musewpdisclosure.js" crc="250538392" ref="browse-campaign-page:careers:create-campaign:organization-profile:campaign-page:claim-nonprofit:dashboard-table:graph-time:path:dashboard-graph:raised:view:user-profle:tile:campaign-zoom:social-zoom:user-profle-first:impact-viz"/>
+    <file name="form-u27593.php" crc="180212934" ref="create-campaign"/>
+    <file name="form-u27781.php" crc="4010928298" ref="create-campaign"/>
+    <file name="form-u27464.php" crc="4124055681" ref="create-campaign"/>
+    <file name="form-u27667.php" crc="161123799" ref="create-campaign"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="4144015252" ref="index"/>
+    <file name="logo2_small-599282a4aabd28e764c2852cbfa6cf6c.png" crc="4195770371" ref="index:browse-campaign-page:organization-profile:graph-time:campaign-zoom:social-zoom:signup"/>
+    <file name="u779-17.png" crc="440690236" ref="index:about-us:sign-up:blog"/>
+    <file name="u779-17-r.png" crc="4034858752" ref="index:about-us:sign-up:blog"/>
+    <file name="u779-17-m.png" crc="202440551" ref="index:about-us:sign-up:blog"/>
+    <file name="u779-17-fs.png" crc="187253808" ref="index:about-us:sign-up:blog"/>
+    <file name="steps.png" crc="267806257" ref="index:about-us"/>
+    <file name="background.jpg" crc="489953810" ref="index:about-us"/>
+    <file name="tile_event.jpg" crc="4254381915" ref="index"/>
+    <file name="screen shot 2013-08-28 at 50219 am.jpg" crc="4109581709" ref="index:tile"/>
+    <file name="tile_goalbased.jpg" crc="335728325" ref="index"/>
+    <file name="tile_orglongcampaign.jpg" crc="334853047" ref="index:tile"/>
+    <file name="fb.jpg" crc="4291096923" ref="index:browse-campaign-page:careers:about-us:create-campaign:sign-up:blog:organization-profile:campaign-page:claim-nonprofit:dashboard-table:graph-time:path:dashboard-graph:raised:view:user-profle:tile:campaign-zoom:social-zoom:user-profle-first:impact-viz"/>
+    <file name="tw.jpg" crc="378728715" ref="index:browse-campaign-page:careers:about-us:create-campaign:sign-up:blog:organization-profile:campaign-page:claim-nonprofit:dashboard-table:graph-time:path:dashboard-graph:raised:view:user-profle:tile:campaign-zoom:social-zoom:user-profle-first:impact-viz"/>
+    <file name="master-logged-in-favicon.ico" crc="4222809800" ref="browse-campaign-page"/>
+    <file name="images120x147.jpg" crc="327140095" ref="browse-campaign-page"/>
+    <file name="social.png" crc="5351413" ref="browse-campaign-page"/>
+    <file name="campaignpic.png" crc="434258139" ref="browse-campaign-page:create-campaign:organization-profile:graph-time:path:dashboard-graph:raised:view:user-profle:tile:campaign-zoom:social-zoom:impact-viz"/>
+    <file name="pasted image 83x82.jpg" crc="4159744146" ref="browse-campaign-page:create-campaign:organization-profile:graph-time:path:dashboard-graph:raised:view:user-profle:tile:campaign-zoom:social-zoom:impact-viz"/>
+    <file name="pasted image 219x229.jpg" crc="4124088890" ref="browse-campaign-page:create-campaign:organization-profile:user-profle:tile:impact-viz"/>
+    <file name="master-non-login-favicon.ico" crc="4222809800" ref="about-us"/>
+    <file name="u27607-17.png" crc="4291716004" ref="create-campaign"/>
+    <file name="u27607-17-r.png" crc="95388016" ref="create-campaign"/>
+    <file name="u27607-17-m.png" crc="4259821392" ref="create-campaign"/>
+    <file name="u27607-17-fs.png" crc="3812709512" ref="create-campaign"/>
+    <file name="u27790-17.png" crc="3854834222" ref="create-campaign"/>
+    <file name="u27790-17-r.png" crc="299468581" ref="create-campaign"/>
+    <file name="u27790-17-m.png" crc="523065303" ref="create-campaign"/>
+    <file name="u27790-17-fs.png" crc="256846644" ref="create-campaign"/>
+    <file name="u27528-17.png" crc="3915583378" ref="create-campaign"/>
+    <file name="u27528-17-r.png" crc="403013959" ref="create-campaign"/>
+    <file name="u27528-17-m.png" crc="408996401" ref="create-campaign"/>
+    <file name="u27528-17-fs.png" crc="3785197329" ref="create-campaign"/>
+    <file name="u27687-17.png" crc="3854834222" ref="create-campaign"/>
+    <file name="u27687-17-r.png" crc="299468581" ref="create-campaign"/>
+    <file name="u27687-17-m.png" crc="523065303" ref="create-campaign"/>
+    <file name="u27687-17-fs.png" crc="256846644" ref="create-campaign"/>
+    <file name="screenshot 2013-11-08 100752-u25878.jpg" crc="3772540154" ref="create-campaign"/>
+    <file name="personal_profile_createcampaign-u25963.jpg" crc="4130778055" ref="create-campaign"/>
+    <file name="profile-org-create-u25992.jpg" crc="3818459752" ref="create-campaign"/>
+    <file name="master-non-profit-favicon.ico" crc="4222809800" ref="organization-profile"/>
+    <file name="tumblr_l7mdqfguzx1qculc7o1_500-u10848-fr.jpg" crc="3849329356" ref="organization-profile"/>
+    <file name="in.jpg" crc="462408503" ref="organization-profile:user-profle:tile:social-zoom:user-profle-first"/>
+    <file name="em.jpg" crc="35319754" ref="organization-profile:user-profle:tile:social-zoom:user-profle-first"/>
+    <file name="corbis-42-50881697.jpg" crc="209799192" ref="organization-profile"/>
+    <file name="tumblr_l7mdqfguzx1qculc7o1_500-u13893-fr.jpg" crc="4083719837" ref="organization-profile:graph-time:campaign-zoom:social-zoom"/>
+    <file name="tumblr_l7mdqfguzx1qculc7o1_500132x120.jpg" crc="16397473" ref="organization-profile"/>
+    <file name="rcfm-profile-photo-u11015-fr.jpg" crc="501132054" ref="organization-profile"/>
+    <file name="profile-u11009-fr.jpg" crc="261683611" ref="organization-profile"/>
+    <file name="pasted image 84x82.jpg" crc="4109429308" ref="organization-profile"/>
+    <file name="998997_10152014345613868_345701974_n-u27965-fr.jpg" crc="3774266281" ref="organization-profile"/>
+    <file name="hero-profile-u11012-fr.jpg" crc="184476960" ref="organization-profile"/>
+    <file name="heart.png" crc="450570836" ref="organization-profile:dashboard-table:graph-time:path:dashboard-graph:raised:view:user-profle:tile:campaign-zoom:social-zoom:user-profle-first"/>
+    <file name="pasted image 81x80.jpg" crc="3770894644" ref="organization-profile:user-profle"/>
+    <file name="pasted image 82x81.jpg" crc="3976605618" ref="organization-profile:user-profle"/>
+    <file name="pasted image 82x82.jpg" crc="359839295" ref="organization-profile:user-profle"/>
+    <file name="stock-vector-hand-giving-love-symbol-119533978-u17864-fr.jpg" crc="4180813385" ref="organization-profile"/>
+    <file name="raised_white.png" crc="3945720369" ref="organization-profile:dashboard-table:graph-time:path:dashboard-graph:raised:view:tile:campaign-zoom:social-zoom:user-profle-first"/>
+    <file name="give.png" crc="4087387433" ref="organization-profile:path:tile:social-zoom:user-profle-first"/>
+    <file name="pasted image 226x223.jpg" crc="4171186172" ref="organization-profile:tile"/>
+    <file name="images-u17867-fr.jpg" crc="3801732580" ref="organization-profile"/>
+    <file name="a-man-stands-atop-debris-as-residents-salvage-belongings-from-the-ruins-of-their-houses-after-typhoon-haiyan-battered-mirrorcouk.jpg" crc="3955954048" ref="campaign-page"/>
+    <file name="unicef mother243x212.jpg" crc="3828012503" ref="campaign-page"/>
+    <file name="998997_10152014345613868_345701974_n.jpg" crc="4161596620" ref="campaign-page:tile"/>
+    <file name="screen shot 2013-09-30 at 25638 pm.jpg" crc="3860202427" ref="claim-nonprofit"/>
+    <file name="screen shot 2013-09-30 at 25646 pm.jpg" crc="4152652635" ref="claim-nonprofit"/>
+    <file name="eye.png" crc="121861951" ref="dashboard-table:graph-time:path:dashboard-graph:raised:view:tile:campaign-zoom:social-zoom"/>
+    <file name="mail.png" crc="16086589" ref="dashboard-table"/>
+    <file name="give_dark.png" crc="4248238950" ref="dashboard-table:graph-time:dashboard-graph:campaign-zoom:social-zoom"/>
+    <file name="raised.png" crc="3979182758" ref="dashboard-table:graph-time:dashboard-graph:campaign-zoom:social-zoom"/>
+    <file name="heart_dark.png" crc="400896059" ref="dashboard-table"/>
+    <file name="give2.png" crc="438599477" ref="dashboard-table"/>
+    <file name="eye_black.png" crc="4161859865" ref="dashboard-table:graph-time:dashboard-graph:campaign-zoom:social-zoom"/>
+    <file name="pasted image 84x8233x32.jpg" crc="4268485057" ref="dashboard-table"/>
+    <file name="pasted image 81x8033x33.jpg" crc="4215439030" ref="dashboard-table"/>
+    <file name="pasted image 83x8234x33.jpg" crc="101016196" ref="dashboard-table"/>
+    <file name="pasted image 82x8134x33.jpg" crc="3892822419" ref="dashboard-table"/>
+    <file name="pasted image 82x8232x32.jpg" crc="3939704992" ref="dashboard-table"/>
+    <file name="tri_black.png" crc="4216552012" ref="dashboard-table:graph-time:path:dashboard-graph:raised:view:tile:campaign-zoom:social-zoom"/>
+    <file name="line-graph-single-axis_green.png" crc="81230873" ref="graph-time:campaign-zoom"/>
+    <file name="path.jpg" crc="357085446" ref="graph-time:path:dashboard-graph:raised:view:campaign-zoom"/>
+    <file name="time.png" crc="3940184701" ref="graph-time:path:dashboard-graph:raised:view:campaign-zoom"/>
+    <file name="team.jpg" crc="356806080" ref="graph-time:path:dashboard-graph:raised:view:campaign-zoom"/>
+    <file name="images.jpg" crc="4187648150" ref="graph-time:social-zoom"/>
+    <file name="hero-profile228x120.jpg" crc="4066881500" ref="graph-time"/>
+    <file name="hero-profile.jpg" crc="461484079" ref="graph-time:social-zoom"/>
+    <file name="profile.jpg" crc="3770982339" ref="graph-time:social-zoom"/>
+    <file name="rcfm-profile-photo120x160.jpg" crc="4174992543" ref="graph-time"/>
+    <file name="donut_sn.png" crc="3893995775" ref="path"/>
+    <file name="pasted image 84x8241x40.jpg" crc="60246222" ref="dashboard-graph"/>
+    <file name="pasted image 81x8041x40.jpg" crc="4053054982" ref="dashboard-graph"/>
+    <file name="pasted image 82x8141x41.jpg" crc="3898468552" ref="dashboard-graph"/>
+    <file name="pasted image 83x8241x41.jpg" crc="3999583831" ref="dashboard-graph"/>
+    <file name="pasted image 82x8239x39.jpg" crc="3843758881" ref="dashboard-graph"/>
+    <file name="user-profle-favicon.ico" crc="4222809800" ref="user-profle"/>
+    <file name="graph.png" crc="287266102" ref="user-profle:social-zoom"/>
+    <file name="images-u22762-fr.jpg" crc="65492761" ref="user-profle:user-profle-first"/>
+    <file name="vaguepie.png" crc="3788443541" ref="tile"/>
+    <file name="tile_goalbased-u22440-fr.jpg" crc="4057374719" ref="tile"/>
+    <file name="blur.jpg" crc="483005151" ref="campaign-zoom:social-zoom"/>
+    <file name="pasted image 84x8282x80.jpg" crc="397497576" ref="social-zoom"/>
+    <file name="pasted image 81x8063x62.jpg" crc="4288299429" ref="social-zoom"/>
+    <file name="pasted image 83x82-u24107.jpg" crc="451434432" ref="social-zoom"/>
+    <file name="pasted image 82x8163x63.jpg" crc="3825709586" ref="social-zoom"/>
+    <file name="user-profle-first-favicon.ico" crc="4222809800" ref="user-profle-first"/>
+    <file name="_google.png" crc="530371512" ref="user-profle-first"/>
+    <file name="graph2.png" crc="498126699" ref="user-profle-first"/>
+    <file name="tw-u24615.jpg" crc="4026339216" ref="user-profle-first"/>
+    <file name="_facebook.png" crc="529461882" ref="user-profle-first"/>
+    <file name="_linkedin.png" crc="4152233055" ref="user-profle-first"/>
+    <file name="blank-master-favicon.ico" crc="4222809800" ref="signup"/>
+    <file name="pasted image 256x256.jpg" crc="3768585087" ref="signup"/>
+    <file name="pasted image 256x2562.jpg" crc="3841821008" ref="signup"/>
+    <file name="pasted image 256x25629x29.jpg" crc="4096704712" ref="signup"/>
+    <file name="pasted image 256x2563.jpg" crc="302640635" ref="signup"/>
+    <file name="pasted image 256x25629x292.jpg" crc="4243329131" ref="signup"/>
+  </folder>
+  <file name="index.html" crc="4156376959" mt="1387225107013" redirect="true"/>
+  <file name="browse-campaign-page.html" crc="4145816372" mt="1387486283902" redirect="true"/>
+  <file name="careers.html" crc="258195789" mt="1387486283910" redirect="true"/>
+  <file name="about-us.html" crc="288343719" mt="1387225107018" redirect="true"/>
+  <file name="create-campaign.html" crc="14137684" mt="1387486283917" redirect="true"/>
+  <file name="sign-up.html" crc="4052060727" mt="1387225107021" redirect="true"/>
+  <file name="blog.html" crc="276914567" mt="1387225107030" redirect="true"/>
+  <file name="organization-profile.html" crc="3906936742" mt="1387486274794" redirect="true"/>
+  <file name="campaign-page.html" crc="4022013223" mt="1387486283925" redirect="true"/>
+  <file name="claim-nonprofit.html" crc="373474932" mt="1387486283932" redirect="true"/>
+  <file name="dashboard-table.html" crc="3828341719" mt="1387486274808" redirect="true"/>
+  <file name="graph-time.html" crc="396095206" mt="1387486274921" redirect="true"/>
+  <file name="path.html" crc="4142656797" mt="1387486274929" redirect="true"/>
+  <file name="dashboard-graph.html" crc="4120938585" mt="1387486274942" redirect="true"/>
+  <file name="raised.html" crc="4019072920" mt="1387486274949" redirect="true"/>
+  <file name="view.html" crc="335249912" mt="1387486274963" redirect="true"/>
+  <file name="user-profle.html" crc="3842038145" mt="1387486283941" redirect="true"/>
+  <file name="tile.html" crc="4010237593" mt="1387486283949" redirect="true"/>
+  <file name="campaign-zoom.html" crc="310502726" mt="1387486377093" redirect="true"/>
+  <file name="social-zoom.html" crc="3966396782" mt="1387486384788" redirect="true"/>
+  <file name="user-profle-first.html" crc="4013434786" mt="1387486283957" redirect="true"/>
+  <file name="signup.html" crc="4123038107" mt="1386836498165" redirect="true"/>
+  <file name="impact-viz.html" crc="4121386293" mt="1387486283965" redirect="true"/>
+</manifest>
