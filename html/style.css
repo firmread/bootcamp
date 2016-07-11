@@ -1,0 +1,250 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+	overflow-y:scroll;
+	/*always show the scroll bar
+	so the content not ruined because of it...*/
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+/*FIRM'S CODE START HERE*/
+/*FIRM'S CODE START HERE*/
+/*FIRM'S CODE START HERE*/
+/*FIRM'S CODE START HERE*/
+/*FIRM'S CODE START HERE*/
+/*FIRM'S CODE START HERE*/
+/*FIRM'S CODE START HERE*/
+/*FIRM'S CODE START HERE*/
+/*FIRM'S CODE START HERE*/
+/*FIRM'S CODE START HERE*/
+/*FIRM'S CODE START HERE*/
+/*FIRM'S CODE START HERE*/
+
+
+/*Set color for outer BG*/
+html{
+    background-color:#FFFFFF;
+	color:rgba(255,255,255,.8);
+}
+
+
+/*BODY BG*/
+body{
+    width:720px;
+    margin:0 auto;
+	border:5px;
+	-webkit-border-radius: 60px;
+	-moz-border-radius: 60px;
+	border-radius: 60px;
+    background-color:#4C4C4C;
+	float:center;
+    /*display:block;*/
+    font-family: 'Courier', Arial, san serif;
+}
+
+/*On making full moon logo*/
+header{
+	
+	margin: 20px;
+	padding:25px;
+    padding-top:20px;
+	display:block;
+    float:left;
+
+	-webkit-border-radius: 40px;
+	-moz-border-radius: 40px;
+	border-radius: 40px;
+	background-color:#19BAF3;
+	width:630px;
+	
+	text-align:left;
+	text-decoration:none;
+    font-size:30px;
+}
+
+header:link{
+}
+
+header:visited{
+}
+
+header:hover{
+    text-decoration:none;
+    background-color:#F4BF19;
+}
+
+header:active{
+}
+
+header div{
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	background-color:#666666;
+	width:430px;
+	padding:5px;
+	margin:5px 5px 5px 0 ;
+}
+
+header div h2{
+	padding:5px;
+	font-size:70%;	
+}
+
+a {
+	color:rgba(255,255,255,.8);
+    text-decoration:none;
+}
+
+nav{
+    padding:5px 0;
+}
+
+nav ul{
+    list-style-type:none;
+    text-align:left;
+	font-size:20px;
+}
+
+nav li{
+    display:inline;
+    text-align:center;
+    padding:0 5px;
+    margin:0px auto;
+}
+
+nav li a{
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    text-decoration:none;
+    background-color:#3F2015;
+    padding:10px;
+}
+
+nav li a:link{
+}
+
+nav li a:visited{
+}
+
+nav li a:hover{
+    background-color:#F4BF19;
+}
+
+nav li a:active{
+    background-color:#8786A6;
+}
+
+.chamfer{
+	-webkit-border-top-right-radius: 40px;
+	-webkit-border-bottom-right-radius: 40px;
+	-moz-border-radius-topright: 40px;
+	-moz-border-radius-bottomright: 40px;
+	border-top-right-radius: 40px;
+	border-bottom-right-radius: 40px;
+}
+
+div.chamfer{
+
+}
+	
+
+
+
+p {
+	font-family: 'Courier', Arial, san serif;
+	font-size: 14px;
+}
+
+section {
+    float:left;
+    display:block;
+    width:100%;
+    clear:both;
+    padding:0px 0;
+}
+
+.thru {
+    opacity:.8;
+}
+
+img {
+	display:block;
+    float:right;
+	width:auto;
+}
+
+audio{
+	width:100%;
+}
+
+footer{
+	
+	margin: 20px 10px 10px 20px;
+	padding:25px;
+    padding-top:20px;
+	display:block;
+    float:left;
+
+	-webkit-border-radius: 40px;
+	-moz-border-radius: 40px;
+	border-radius: 40px;
+	background-color:#19BAF3;
+	width:630px;
+	
+	text-align:left;
+	text-decoration:none;
+    font-size:30px;
+}
+
+footer:hover{
+    text-decoration:none;
+    background-color:#F4BF19;
+}
+
