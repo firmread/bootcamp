@@ -1,0 +1,117 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Punchlist</title>
+    <link rel="stylesheet" href="css/foundation.css" />
+    <script src="js/vendor/modernizr.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <style>
+      body{
+        background-image: url("./img/background_pl.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        z-index: 0;
+        font-family: "Roboto", Arial, sans-serif;
+      }
+      #logo{
+        padding-top: 27vh;
+        margin:auto;
+      }
+      #tagline{
+        color:white;
+        margin-top: 0.7em;
+        margin-bottom: 1.5em;
+        font-size: 15px;
+        text-shadow:20px 20px 100px black;
+        font-family: "Roboto", Arial, sans-serif;
+      }
+      /*
+      #shadowbox{
+        -moz-box-shadow: 0 0 30px 5px #999;
+        -webkit-box-shadow: 0 0 30px 5px #999;
+      }*/
+      #email-form{
+        margin-top: 3vh;
+        font-family: "Roboto", Arial, sans-serif;
+        text-shadow:20px 20px 100px black;
+        outline: 0;
+      }
+      .go-button{
+        background-color: transparent !important; 
+        border: 3px solid #fff;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: "Roboto", Arial, sans-serif;
+        text-shadow:20px 20px 100px black;
+		font-size: 0.875rem;
+		height: 2.3125rem;
+		line-height: 2.3125rem;
+		margin-left: 0.25rem;
+		padding-top: 0px;
+
+		-webkit-border-bottom-right-radius: 3px;
+		-webkit-border-top-right-radius: 3px;
+		border-bottom-right-radius: 3px;
+		border-top-right-radius: 3px;
+
+        box-shadow:20px 20px 100px black;
+      }
+      .go-button:hover{
+	      background-color:white !important;
+	      color:black;
+      }
+      .footer{
+	    position: absolute;
+	    bottom:40px;
+	    width:400px;
+	    left:50%;
+	    margin-left:-200px;
+	    height:auto;
+	    color:#8d8d8d;
+	    font-size:10px;
+      }
+      .footer img{
+	    margin-bottom:10px;
+      }
+  </style>
+
+  </head>
+  <body>
+    <div class="row">
+      <div class="small-4 small-centered columns text-center">
+        <img id="logo" src="./img/logo.png" alt="Punchlist"/>
+      </div>
+    </div>
+
+
+    <div class="row">
+      <div id="shadowbox" class="small-12 small-centered columns text-center">
+        <p id="tagline"><br />Nearly there...<br /><br />
+
+To make sure you’re not just a raccoon messing with us,<br />
+please follow the link in the email we sent you to download the app!
+        </p>
+      </div>
+    </div>
+
+
+	<div class="footer"><center><img src="./img/footer.png"><br />Photo credit: STARK KARIM</center></div>
+
+
+
+      </div>
+    </div>
+
+    
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </body>
+</html>
