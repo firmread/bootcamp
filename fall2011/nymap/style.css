@@ -1,0 +1,217 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+	overflow-y:scroll;
+	/*always show the scroll bar
+	so the content not ruined because of it...*/
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+
+/*FIRM'S CODE START HERE*/
+
+/*set google web fonts 
+font-family: 'Megrim', cursive;
+font-family: 'Nixie One', cursive;
+*/
+
+/*Set brown color for outer BG*/
+html{
+    background-color:#3F2015;
+	color:rgba(255,255,255,.8);
+}
+
+
+/*BLUE SKY BG*/
+body{
+    width:960px;
+    margin:0 auto;
+    background-color:#313247;
+    display:block;
+    font-family: 'Helvetica', Arial, san serif;
+}
+
+/*On making full moon logo*/
+header{
+	
+	margin: 5px 10px 10px 20px;
+	padding:10px;
+	display:block;
+    float:left;
+/*
+	-webkit-border-radius: 160px;
+	-moz-border-radius: 160px;
+	border-radius: 160px;
+	background-color:#8786A6;
+	width:150px;
+*/	
+	text-align:center;
+	text-decoration:none;
+    font-size:40px;
+}
+
+header:link{
+}
+
+header:visited{
+}
+
+header:hover{
+    text-decoration:none;
+    background-color:#F4BF19;
+}
+
+header:active{
+}
+
+a {
+	color:rgba(255,255,255,.8);
+    text-decoration:none;
+}
+
+nav{
+    padding:5px 0;
+}
+
+nav ul{
+    list-style-type:none;
+    text-align:left;
+	font-size:20px;
+}
+
+nav li{
+    display:inline;
+    text-align:center;
+    padding:0 5px;
+    margin:0px auto;
+}
+
+nav li a{
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    text-decoration:none;
+    background-color:#3F2015;
+    padding:10px;
+}
+
+nav li a:link{
+}
+
+nav li a:visited{
+}
+
+nav li a:hover{
+    background-color:#F4BF19;
+}
+
+nav li a:active{
+    background-color:#8786A6;
+}
+
+div{
+	margin:50px 75px 5px 20px;
+	padding:5px 80px 5px 5px;
+	float:right;
+    display:block;
+	width:60%;
+	background-color:black;
+}
+
+.chamfer{
+	-webkit-border-top-right-radius: 40px;
+	-webkit-border-bottom-right-radius: 40px;
+	-moz-border-radius-topright: 40px;
+	-moz-border-radius-bottomright: 40px;
+	border-top-right-radius: 40px;
+	border-bottom-right-radius: 40px;
+}
+
+div.chamfer{
+
+}
+	
+
+
+
+p {
+	font-family: 'Trebuchet', Arial, san serif;
+	font-size: 14px;
+}
+
+section {
+    float:left;
+    display:block;
+    width:100%;
+    clear:both;
+    margin:0px 0 0 0;
+}
+
+.thru {
+    opacity:.8;
+}
+
+img {
+	display:block;
+    float:right;
+	width:auto;
+}
+
+audio{
+	width:100%;
+}
+
+footer{
+    padding:10px 0;
+    text-align:left;
+    clear:both;
+}
+
+footer p{
+	font-size:75%;	
+}
